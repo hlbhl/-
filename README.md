@@ -1,3 +1,4 @@
+https://github.com/InternLM/Tutorial
 自助心理咨询（治疗）AI产品 PRD
 1. 产品概述
 产品名称： 自助心理咨询AI
